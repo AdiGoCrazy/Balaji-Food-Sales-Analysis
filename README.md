@@ -1,4 +1,3 @@
-Here's a professional GitHub description for your project:
 
 ## 🍔 Balaji Fast Food Sales Analysis
 
